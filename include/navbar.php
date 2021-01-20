@@ -9,7 +9,7 @@
           <span class="icon-bar"></span>
         </a>
         <h1 class="brand text-center">
-          <a href="index.php">Union Church <br />
+          <a href="#top">Union Church <br />
             <small>of Monterrey</small>
           </a>
         </h1>

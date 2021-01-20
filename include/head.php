@@ -11,7 +11,7 @@
   <link href="css/bootstrap.css" rel="stylesheet">
   <link href="css/style.css" rel="stylesheet">
   <link rel='stylesheet' id='prettyphoto-css' href="css/prettyPhoto.css" type='text/css' media='all'>
-  <link href="css/fontello.css" type="text/css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css" integrity="sha512-HK5fgLBL+xu6dm/Ii3z4xhlSUyZgTT9tuc/hSrtw6uzJOvgRr2a9jyxxT1ely+B+xFAmJKVSTbpM/CuL7qxO8w==" crossorigin="anonymous" />
   <!--[if lt IE 7]>
             <link href="css/fontello-ie7.css" type="text/css" rel="stylesheet">  
         <![endif]-->
