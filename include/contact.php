@@ -6,13 +6,13 @@
       <div class="row">
         <div class="span12">
           <div class="cform" id="theme-form">
-            <form action="#" method="post" class="cform-form">
+            <form action="https://formspree.io/f/mzbkoegl" method="post" class="cform-form">
               <div class="row">
                 <div class="span6"> <span class="your-name">
                     <input type="text" name="your-name" placeholder="Your Name" class="cform-text" size="40" title="your name">
                   </span> </div>
                 <div class="span6"> <span class="your-email">
-                    <input type="text" name="your-email" placeholder="Your Email" class="cform-text" size="40" title="your email">
+                    <input type="email" name="your-email" placeholder="Your Email" class="cform-text" size="40" title="your email" required>
                   </span> </div>
               </div>
               <div class="row">
@@ -20,7 +20,7 @@
                     <input type="text" name="company" placeholder="Your Company" class="cform-text" size="40" title="company">
                   </span> </div>
                 <div class="span6"> <span class="website">
-                    <input type="text" name="website" placeholder="Your Website" class="cform-text" size="40" title="website">
+                    <input type="url" name="website" placeholder="Your Website" class="cform-text" size="40" title="website">
                   </span> </div>
               </div>
               <div class="row">
