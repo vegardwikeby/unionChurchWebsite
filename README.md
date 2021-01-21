@@ -1,6 +1,6 @@
 # unionChurchWebsite
 
-<img src="assets/img/favicon.svg" style="height:1em"> Union Church of Monterrey's landing page
+<img src="assets/img/favicon.svg" height="16px"> Union Church of Monterrey's landing page
 
 Link: https://unionchurchofmonterrey.org/desarrollo/
 
