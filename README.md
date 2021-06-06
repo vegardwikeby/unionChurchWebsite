@@ -2,7 +2,7 @@
 
 <img src="assets/img/Logos/favicon.svg" height="16px"> Union Church of Monterrey's landing page
 
-Link: https://unionchurchofmonterrey.org/desarrollo/
+Link: https://unionchurchofmonterrey.org/
 
 ## Tools
 
